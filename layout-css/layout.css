@@ -1,0 +1,47 @@
+body{
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+.circle{
+  background-color: #4bb8ff;
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.rect{
+  background-color: #4bb8ff;
+  height: 30px;
+  width: 70px;
+  border-radius: 10px;
+margin-top: 5px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.sq{
+   background-color: #4bb8ff;
+   height: 90px;
+   width: 70px;
+   border-radius: 10px;
+}
+.flex{
+  margin-top: 20px;
+display: flex;
+  align-items: center;
+  
+}
+.space{
+  margin-top: 5px;
+}
+.circle:hover{
+  background-color: #0000ff;
+}
+.rect:hover{
+  background-color: #0000ff;
+}
+.sq:hover{
+   background-color: #0000ff;
+}
