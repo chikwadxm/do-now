@@ -1,0 +1,79 @@
+body {
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+}
+.my-box {
+  display: flex;
+  margin-top: 50px;
+  width: 250px;
+  height: 100px;
+  background-color: #4bb8fa;
+  padding: 40px 5px 5px;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+}
+
+section {
+  margin-top: 20px;
+display: flex;
+  align-items: center;
+}
+  
+.html {
+  width: 70px;
+  height: 70px;
+  background-color: #4bb8fa;
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+  margin-right: 50px;
+  border-radius: 10px;
+
+}
+.css {
+  
+  background-color: #4bb8fa;
+  width: 80px;
+  height: 50px;
+  text-align: center;
+  padding: 5px 1px 1px 1px;
+  color: white;
+  border-radius: 10px;
+}
+.great {
+  
+  background-color: #4bb8fa;
+  width: 80px;
+  height: 50px;
+  text-align: center;
+  padding: 5px 1px 1px 1px;
+  color: white;
+  border-radius: 10px;
+}
+.java {
+  width: 70px;
+  border-radius: 10px;
+  height: 70px;
+  background-color: #4bb8fa;
+  text-align: center;
+  color: white;
+  text-align: center;
+  padding-top: 50px;
+  margin-left: 50px;
+  
+}
+.lastbox {
+  margin-top: 10px;
+  width: 250px;
+  height: 100px;
+  background-color: #4bb8fa;
+  display: flex;
+  padding: 10px 5px 5px;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  align-items: center;
+ 
+}
